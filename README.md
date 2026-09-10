@@ -121,10 +121,9 @@ python main.py
 
 ### Driver Monitoring
 
-> *(Add a screenshot here after running the project.)*
-
 ```
-images/demo.png
+<img width="542" height="334" alt="image" src="https://github.com/user-attachments/assets/c83679c5-5523-49cb-bbf0-2c5700f6949e" />
+
 ```
 
 ---
@@ -145,7 +144,7 @@ images/demo.png
 **Tejas R**
 
 - GitHub: https://github.com/tejasr-2006
-- LinkedIn: *(Add your LinkedIn profile here)*
+- LinkedIn: https://www.linkedin.com/in/tejas-r-545b00318/
 
 ---
 
